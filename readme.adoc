@@ -1,0 +1,6 @@
+= Autonomous Car Simulation
+
+== Overview
+
+This project is a simulation of an autonomous car. The car is able to drive around a track and avoid obstacles. The car is controlled by a neural network that is trained using reinforcement learning.
+
